@@ -1,0 +1,36 @@
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+.navbar-inverse {
+	background: none;
+	background-image: none;
+
+}
+
+.navbar-inverse .navbar-nav > li > a {
+	color: black;
+}
+
+.navbar-inverse .navbar-nav > li > a:hover,
+.navbar-inverse .navbar-nav > li > a:focus {
+  color: #55c755;
+}
+
+#promo-indicators {
+	padding-top: 50px;
+	position: relative;
+}
+
+#promo-indicators .carousel-indicators li {
+	background-color: black;
+}
+
+
+
+
+
+
+
+
+
