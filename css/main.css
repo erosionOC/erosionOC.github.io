@@ -2,18 +2,12 @@
    Author's custom styles
    ========================================================================== */
 
-.navbar-inverse {
-	background: none;
-	background-image: none;
-
-}
-
-.navbar-inverse .navbar-nav > li > a {
+.navbar-default .navbar-nav > li > a {
 	color: black;
 }
 
-.navbar-inverse .navbar-nav > li > a:hover,
-.navbar-inverse .navbar-nav > li > a:focus {
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
   color: #55c755;
 }
 
